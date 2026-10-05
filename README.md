@@ -2,6 +2,12 @@
 
 > **Grupo 4 · Tema 5 — Desenvolvimento, Métricas e IA no Ecossistema de Software e de TI**
 
+## Integrantes
+
+- **William Libardoni**
+- **Bianca Scarton**
+- **Júlio César Pegoraro Souza**
+
 ## Pergunta central
 
 **É possível medir quanto cada desenvolvedor produz e criar um ranking?**
