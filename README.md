@@ -140,10 +140,14 @@ Metricas-individuais/
 ├── referencias/
 │   └── referencias.md
 └── slides/
-    └── apresentacao.pdf
+    └── Grupo_4_Metricas_Individuais.pdf
 ```
 
-> A pasta `slides/` será utilizada para a versão em PDF da apresentação.
+> A apresentação utilizada pelo grupo está disponível em PDF na pasta `slides/`.
+
+## Apresentação
+
+➡️ [Abrir a apresentação em PDF](slides/Grupo_4_Metricas_Individuais.pdf)
 
 ## Referência principal
 
